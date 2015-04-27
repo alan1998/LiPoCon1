@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 27/04/2015 20:54:27
+
+BeginCmp
+TimeStamp = /553E8D5E;
+Reference = J1;
+ValeurCmp = DB9;
+IdModule  = Connect:DB9FD;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E829F;
+Reference = P1;
+ValeurCmp = CONN_01X06;
+IdModule  = JST:JST-XH6;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E831A;
+Reference = P2;
+ValeurCmp = CONN_01X06;
+IdModule  = JST:JST-XH6;
+EndCmp
+
+EndListe
